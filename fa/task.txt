@@ -1,0 +1,17 @@
+task.txt
+
+var 17 (32 + 1 -16)
+
+vn = { S, A, B, C }
+vt = { a, b, c, d }
+p = {
+	
+0:	S -> dA
+1:	A -> aB
+2:	B -> bC
+3:	C -> cB
+4:	A -> bA
+5:	B -> aB
+6:	B -> d
+
+}

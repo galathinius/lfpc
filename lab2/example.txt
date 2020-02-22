@@ -1,0 +1,12 @@
+
+# comment
+
+everything is float
+
+y (x) = 3*x^2 + (x - 6)/x;
+print(y(5))
+
+a = 3.7863
+b = a + 5
+c = y (b)
+

@@ -1,0 +1,5 @@
+Compiler Design Task due on 18.02.2020
+Define syntax of your programming languages and compute sample code which consist of 2 functions, first main function and second function which performs some computations. Sample should include call of second function from main function.
+Define grammar of your programming language. Grammar should include sets of terminal and non-terminal symbols, and rules of derivation.
+Write a program which will perform tokenization of your sample code, in other words write basic lexer of your programming language.
+
