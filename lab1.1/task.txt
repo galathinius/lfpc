@@ -1,5 +1,7 @@
 task.txt
 
+check if string belongs to finite automata
+
 var 17 (32 + 1 -16)
 
 vn = { S, A, B, C }

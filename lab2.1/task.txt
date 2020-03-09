@@ -1,0 +1,18 @@
+convert nfa to dfa 
+- on paper
+- write program to do it
+- program writes transition table of dfa
+
+
+var 17 (32 + 1 -16)
+
+AF=(Q, sigma , delta (d) , q0, F),
+Q = { q0, q1, q2, q3},  
+sigma= { a, b, c}, 
+F = { q3 }.
+d(q0, a ) = q0, 
+d(q0, a ) = q1, 
+d(q1, b ) = q1, 
+d(q2, b ) = q3,  
+d(q1, a ) = q2,  
+d(q2, a ) = q0.

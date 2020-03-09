@@ -3,6 +3,9 @@
 
 using namespace std;
 
+ifstream fin ("lexer.in");
+ofstream fout ("lexer.out");
+
 // The lexer returns tokens [0-255] if it is an unknown character, otherwise one
 // of these for known things.
 enum Token {
@@ -87,4 +90,10 @@ static int gettok() {
 	  int ThisChar = LastChar;
 	  LastChar = getchar();
 	  return ThisChar;
+}
+
+int main()
+{
+	/* code */
+	return 0;
 }
